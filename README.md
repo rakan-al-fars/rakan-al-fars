@@ -1,34 +1,95 @@
-# راكان غانم سالم هيف آل الفرس
- Cybersecurity & Tech Enthusiast | Former Top Global Esports Player**  
-*(من عائلة الفرس - آل عرينة - الفرعين - جارمة - رفيدة - قحطان)*
+👋 Rakan Ghanem Salem Haif Al-Fars
 
----
+Information Technology Student | Cybersecurity Enthusiast | Technology & Esports
 
-## 👨‍💻 نبذة عني
-، مهتم بمجالات الأمن السيبراني، إدارة الأزمات، والتسويق الرقمي. أجمع بين شغف التقنية وتجربة التنافس الاحترافي العالمي في مجالات الألعاب الإلكترونية.
+Rakan Ghanem Salem Haif Al-Fars is an Information Technology student from Saudi Arabia with an interest in Cybersecurity, Information Security, Artificial Intelligence, and Digital Technology.
 
----
+⸻
 
-## 🏆 الإنجازات في الرياضات الإلكترونية (Esports)
+👨‍💻 About Me
 
-* **المركز 6 عالمياً (2022):** الوصول إلى المرتبة السادسة على مستوى العالم ضمن أفضل لاعبي الألعاب الإلكترونية.
-* **التصنيف العالمي (2013 - 2022):** الاستمرار ضمن قائمة أفضل المنافسين عالمياً على مدار سنوات متتالية.
+* Full Name: Rakan Ghanem Salem Haif Al-Fars
+* 🎓 Information Technology (IT) Student
+* 🇸🇦 Saudi Arabia
+* 🔐 Cybersecurity & Information Security
+* 🤖 Artificial Intelligence
+* 💻 Information Technology
+* 🎮 Competitive Esports
 
----
+⸻
 
-## 📜 الدورات والشهادات التدريبية (Certifications)
+🏆 Achievement
 
-* **Information Security** – STC (2023)
-* **Cybersecurity** – Misk Foundation by Mohammed Bin Salman (2023)
-* **Business Continuity and Crisis Recovery** – The Financial Academy (2023)
-* **Cybersecurity** – Doroob (2023)
-* **Marketing for Startups** – Monsha'at (2023)
-* **Using Artificial Intelligence in Human Resources Management** – Doroob (2023)
-* **Modern Practices in Human Resources Management** – Doroob (2023)
-* **Supply Chains** – Monsha'at (2023)
+🌍 Global Esports Ranking — 2022
 
----
+🏅 6th Place Globally
 
-## 🌐 التواصل
-* **GitHub:** [rakan-al-faras](https://github.com/rakan-al-faras)# rakan-al-faras
-Personal profile and portfolio for Rakan Al-Fars
+Achieved a 6th-place global ranking in competitive esports in 2022.
+
+⸻
+
+📜 Training & Certifications
+
+* 🔐 Information Security — STC
+* 🛡️ Cybersecurity — Misk Foundation
+* 🔐 Cybersecurity — Doroob
+* 🔄 Business Continuity & Crisis Recovery — The Financial Academy
+* 📈 Marketing for Startups — Monsha’at
+* 📦 Supply Chain Management — Monsha’at
+* 🤖 Artificial Intelligence in Human Resources Management — Doroob
+* 👥 Modern Practices in Human Resources Management — Doroob
+
+⸻
+
+🛠️ Areas of Interest
+
+Information Technology
+Cybersecurity
+Information Security
+Artificial Intelligence
+Networking
+Digital Technology
+Digital Transformation
+Business Continuity
+
+⸻
+
+🚀 Currently Working Toward
+
+I am developing my technical and professional skills through education, training, self-learning, and practical projects.
+
+My current focus includes:
+
+* Cybersecurity
+* Information Security
+* Information Technology
+* Networking
+* Artificial Intelligence
+* Digital Transformation
+
+⸻
+
+📂 Projects
+
+🚧 Projects are currently being developed and will be added to this profile.
+
+⸻
+
+📊 GitHub
+
+This profile documents my learning journey, technical projects, cybersecurity interests, experiments, and future IT work.
+
+⸻
+
+📫 Contact
+
+GitHub:
+https://github.com/rakan-al-fars
+
+⸻
+
+🇸🇦 About Rakan Ghanem Salem Haif Al-Fars
+
+Rakan Ghanem Salem Haif Al-Fars is an Information Technology student from Saudi Arabia interested in technology, cybersecurity, information security, and continuous learning.
+
+Learn. Build. Improve.
